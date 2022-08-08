@@ -1,4 +1,5 @@
-## Oi! Bem-vindo(a) ao meu perfil 😁
+## Oi, me chamo Lucas! Bem-vindo(a) ao meu perfil 😁
+
 
  <div>
    <a href="https://github.com/LucasDev-18">
