@@ -7,7 +7,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev-18&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
-### Principais Linguagens
+### Principais Linguagens:
 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
 
 <div>
 
-### Pretendo aprender
+### Tenho interesse em aprender:
  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
