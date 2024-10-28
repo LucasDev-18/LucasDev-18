@@ -23,7 +23,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
  
 <div>
  <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-63748723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/LucasDev-18/LucasDev-18/blob/output/github-contribution-grid-snake.svg)
 
 </div>
