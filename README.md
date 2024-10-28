@@ -3,7 +3,6 @@
 
  <div>
    <a href="https://github.com/LucasDev-18">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDev-18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev-18&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
@@ -16,7 +15,7 @@
 ### Estudando no momento:
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"> <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
 
-### Tenho interesse em aprender: 
+### Desejo aprender: 
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"><img align="center" alt="Ts" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
