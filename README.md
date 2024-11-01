@@ -1,4 +1,4 @@
-## Oi, me chamo Lucas! Bem-vindo(a) ao meu perfil 😁
+## Olá, me chamo Lucas! Seja bem-vindo(a) ao meu perfil 😁
 
 
  <div>
